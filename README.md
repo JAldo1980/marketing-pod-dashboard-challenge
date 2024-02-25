@@ -13,7 +13,7 @@ That said, it ended up being a rather humbling experience, lots of fun! But, tou
 **Fails:** Not being able to install tailwind via npm. I spent an additional 2 hours away researching this without success - I am still looking into this 😅
 <br>
 
-Live site: 
+Live site: https://marketing-pod-tech-task.netlify.app/
 
 Initial sketch (how the build might work):
 
