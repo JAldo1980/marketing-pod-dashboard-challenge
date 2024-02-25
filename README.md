@@ -4,7 +4,7 @@
 <br>
 
 **Thoughts:** On the face of it, I initally read the challenge and felt reasonably confident that I could acheive the basic requirements and even add a number of bonus features. 
-That said, it ended up being a rather humbling experience, lots of fun, but tougher than expected. Which is actually a good thing - it helped me understand clearly I have a lot of work to do, and what to work on and improve. Ultimately, I’d didn’t complete the task.
+That said, it ended up being a rather humbling experience, lots of fun! But, tougher than expected. Which is actually a good thing - it helped me understand clearly I have a lot of work to do, as well as highlighting areas I need to work on and improve. Ultimately, I’d didn’t complete al of the task requirements.
 <br>
 
 **Challenges:** Tailwind install - not being able to install this was disapointing. handleDelete(), and onDelete() - this took me time to get right.
