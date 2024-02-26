@@ -13,7 +13,11 @@ That said, it ended up being a rather humbling experience, but still lots of fun
 **Challenges:** Tailwind install - not being able to install this was disapointing. handleDelete(), and onDelete() - this took me time to get right.
 <br>
 
-**Fails:** Not being able to install tailwind via npm. I spent an additional 2 hours away researching this without success - I am still looking into this (😅) and hope to rebuild this again later on in the week with Tailwind.
+**Fails!:** Not being able to install tailwind via npm. I spent an additional 2 hours away researching this without success - I am still looking into this (😅) and hope to rebuild this again later on in the week with Tailwind.
+<br>
+
+**Features Added:**
+Dark mode. Button hover, active states.
 <br>
 
 **Initial sketch (how the build might work):**
