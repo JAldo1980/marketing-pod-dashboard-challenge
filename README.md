@@ -17,8 +17,9 @@ Live site: https://marketing-pod-tech-task.netlify.app/
 
 Initial sketch (how the build might work):
 
-![initial-1 (1)](https://github.com/JAldo1980/marketing-pod-dashboard-challenge/assets/80925002/5412d7a5-358a-4982-834a-a6c6b4b8e645)
+![initial-1 (1)](https://github.com/JAldo1980/marketing-pod-dashboard-challenge/assets/80925002/86104663-1fe9-4453-add4-2394b09ee82f)
 
 Sketch with structure file / component structure:
 
-![structure-2](https://github.com/JAldo1980/marketing-pod-dashboard-challenge/assets/80925002/10cd79c7-8551-445d-991a-08def08eee27)
+![structure-2](https://github.com/JAldo1980/marketing-pod-dashboard-challenge/assets/80925002/3de0e750-3aca-4c18-ac04-90ad7a112ac1)
+
