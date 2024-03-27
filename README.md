@@ -3,7 +3,7 @@
 **Time taken:** 7 hours 23mins (4-6 hr guideline)
 <br>
 
-**Live site**: https://marketing-pod-tech-task.netlify.app/
+**Live site**: https://the-marketing-pod-tech-challenge-vers.netlify.app/
 <br>
 
 **Thoughts:** On the face of it, I initally read the challenge and felt reasonably confident that I could acheive the basic requirements and even add a number of bonus features. 
